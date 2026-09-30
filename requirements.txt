@@ -1,0 +1,9 @@
+langgraph
+langchain-groq
+langchain-core
+pydantic
+pypdf
+httpx
+python-dotenv
+opik
+gradio
